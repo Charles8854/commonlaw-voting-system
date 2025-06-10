@@ -1,0 +1,14 @@
+name = "commonlaw-voting-dna"
+uuid = "some-uuid"  # use `uuidgen` or similar to generate
+
+[zomes.agent_profile]
+path = "../dna/zomes/agent_profile"
+
+[zomes.ballot]
+path = "../dna/zomes/ballot"
+
+[zomes.vote_item]
+path = "../dna/zomes/vote_item"
+
+[zomes.vote_cast]
+path = "../dna/zomes/vote_cast"

@@ -1,0 +1,53 @@
+
+
+<font color="#aaaaff" size="5"><strong>
+<font color="#C70039" size="5"><strong>
+<font color="#FF5733" size="5"><strong>
+<font color="#FF5733" size="4"><strong>
+
+C70039 
+FF5733 
+bcff33 
+33bcff
+dc33ff
+ff33bc
+ff33e3
+
+
+<p align="left">
+                <font color="#99cc00"><a href="VotingResults.html">Voting Results</a>
+                </font>
+              </p>
+
+<p align="left">
+                <font color="#99cc00"><a href="IntroductoryInformation.html">Read More 'Introductory-Information', here</u></a>.
+                </font>
+              </p>
+
+
+<u><a href="IntroductoryInformation.html">Read More 'Introductory-Information', here</a></u>.
+
+
+
+*********************************************
+~~~~~~~~~~~~~~~~~~~~~~~~
+
+
+Up-loaded pdf-document to chatgpt, 
+RegistrationForm-CLR-1-Basic-PersonalProfile-CommunicationsData-V3
+Instructed it to:
+"Re-produce the pdf image, in bare-essential html (& possibly css) code; 
+all for proper but simple display in web-browser programs."
+
+~~~~
+Here is the results:
+
+Below is a bare-essentials HTML + CSS reproduction of 
+the "NewUsers-RegistrationForm-CLR" from your PDF document.
+
+It keeps the formatting minimal; 
+so that it renders clearly in standard web-browser programs, 
+without relying on unnecessary frameworks or bloat.
+ 
+
+
